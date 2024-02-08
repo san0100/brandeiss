@@ -28,9 +28,9 @@ const messages = [
 
     { text: "Certainly, esteemed Dean. Mr. Sanil stands out not just for his academic brilliance but also for being a kind and supportive friend in our community. His extraordinary ability to bring warmth and help to others is truly remarkable. Often unnoticed on paper, his positive spirit and friendly nature make him a bright presence in our enchanted academic world.", speaker: "judge"},
 
-    { text: "Dear dean, at Brandeis, we unearth dreams from forgotten pages, turning ordinary narratives into bestselling tales. This unique essence drew Mr. Sanil to choose Brandies as his first choice, amidst over 5000 magical schools.", speaker: "judge" },
+    { text: "Dear dean, at Brandeis, we unearth dreams from forgotten pages, turning ordinary narratives into bestselling tales. This unique essence drew Mr. Sanil to choose Brandeis as his first choice, amidst over 5000 magical schools.", speaker: "judge" },
 
-    { text: "Despite teaching himself many things, he has encountered numerous challenges, with a significant one being a lack of resources and guidance on diverse topics. This is precisely why Sanil wants to be a part of our community. At Brandeis, we strive to be the shelter for those struggling in the rain. It is the beauty that defines Brandies and we should give shelter to individual like Mr Sanil.", speaker: "judge" },
+    { text: "Despite teaching himself many things, he has encountered numerous challenges, with a significant one being a lack of resources and guidance on diverse topics. This is precisely why Sanil wants to be a part of our community. At Brandeis, we strive to be the shelter for those struggling in the rain. It is the beauty that defines Brandeis and we should give shelter to individual like Mr Sanil.", speaker: "judge" },
 
     { text: "You are right judge. Let me discuss this with the Headmaster (President), and I will let you know what he thinks.", speaker: "dean" },
 
