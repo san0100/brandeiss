@@ -34,7 +34,7 @@ const messages = [
 
     { text: "You are right judge. Let me discuss this with the Headmaster (President), and I will let you know what he thinks.", speaker: "dean" },
 
-    { text: "Dear Judge, well done! The Headmaster is also genuinely impressed with this applicant, and we truly feel he is the chosen one for the class of 2028. He belongs to this community, and we are committed to helping him achieve great things. I will instruct the admission team to go through his file now and accept him for the class of 2028. Good work, Phoenix!", speaker: "dean" },
+    { text: "Dear Judge, well done! The Headmaster is also genuinely impressed with this applicant, and we truly feel he is the chosen one for the class of 2028. He belongs to this community, and we are committed to helping him achieve great things. I will instruct the admission team to go through his file now and accept him for the class of 2028. Good work, Judge!", speaker: "dean" },
 
     { text: "Dear Dean, thank you for your kind words!, in granting Mr. Sanil this opportunity, we believe in the transformative power of one chance. Indeed, he deserves this chance to weave his own magical tale within the enchanted halls of Brandeis. Thank you for recognizing his potential and affording him the opportunity to shine in the class of 2028.", speaker: "judge" },
 
